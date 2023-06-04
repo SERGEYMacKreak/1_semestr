@@ -1,0 +1,15 @@
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\bin\Debug\net6.0\Контрольная_работа_1ч.exe
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\bin\Debug\net6.0\Контрольная_работа_1ч.deps.json
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\bin\Debug\net6.0\Контрольная_работа_1ч.runtimeconfig.json
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\bin\Debug\net6.0\Контрольная_работа_1ч.dll
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\bin\Debug\net6.0\Контрольная_работа_1ч.pdb
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\Контрольная_работа_1ч.csproj.AssemblyReference.cache
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\Контрольная_работа_1ч.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\Контрольная_работа_1ч.AssemblyInfoInputs.cache
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\Контрольная_работа_1ч.AssemblyInfo.cs
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\Контрольная_работа_1ч.csproj.CoreCompileInputs.cache
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\Контрольная_работа_1ч.dll
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\refint\Контрольная_работа_1ч.dll
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\Контрольная_работа_1ч.pdb
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\Контрольная_работа_1ч.genruntimeconfig.cache
+C:\Users\Олис\Desktop\учеба сергей\Контрольная_работа_1ч\obj\Debug\net6.0\ref\Контрольная_работа_1ч.dll
